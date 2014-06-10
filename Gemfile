@@ -13,6 +13,7 @@ group :development, :test do
   gem 'childprocess', '0.5.2'
   gem 'spork', '0.9.2'
   gem 'annotate', '2.5.0'
+  gem 'factory_girl_rails', '4.1.0'
 end
 
 # Gems used only for assets and not required
